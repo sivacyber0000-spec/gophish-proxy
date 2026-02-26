@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    { "source": "/(.*)", "destination": "http://localhost:3333/$1" }
+    { "source": "/(.*)", "destination": "https://light-weeks-live.loca.lt/$1" }
   ]
 }
